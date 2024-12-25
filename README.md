@@ -1,2 +1,2 @@
-# matias
-Daily notes, ideas, insights and unfinished projects
+# journal
+Daily notes, ideas, insights, and unfinished projects
